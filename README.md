@@ -1,3 +1,11 @@
+![Ovia Inc — Pipecat: open-source framework for voice and multimodal realtime AI](pipecat.png)
+
+> **Ovia Inc fork** — We maintain this fork of [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat), the open-source framework for voice agents, multimodal applications, and realtime AI, maintained by Daily and the community — a pipeline architecture where speech, vision, and model services compose as interchangeable stages.
+>
+> **Story:** the pipeline is the idea: audio in, stages for transcription, reasoning, and speech out, each swappable without rebuilding the agent. That composability is the same discipline our context-engineering work applies to text systems, carried into realtime media. The fork sits on the voice shelf beside LiveKit Agents — the two open frameworks worth evaluating side by side before any voice build commits. Upstream credit: Daily and the Pipecat community. License: BSD-2-Clause (see LICENSE). The upstream project is documented below.
+
+---
+
 <h1><div align="center">
  <img alt="pipecat" width="300px" height="auto" src="https://raw.githubusercontent.com/pipecat-ai/pipecat/main/pipecat.png">
 </div></h1>
